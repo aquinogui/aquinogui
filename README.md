@@ -11,6 +11,8 @@
 
 <img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ24ydXY1anJ0N3N3eWoxODZkc2w1MzExb2premVsMG50amRjNmh1ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.webp"  />
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=aquinogui&theme=synthwave&locale=pt_BR&card_width=600)](https://git.io/streak-stats)
+
 ###
 
 <div align="left">
